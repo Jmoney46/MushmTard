@@ -1,26 +1,26 @@
-# Murk Mod Plugins & Mush Installer
+# MushTard Installer jargon
 
-Welcome, we are the team behind **Murk Mod Plugins** and the modified version of **Mush**.  
-This installer sets up the MurkMod plugin environment and installs our enhanced Mush system.
+Hola, I am retard, and the other day I was using murkmod and some fellow peers of mine were like "Dude, you are so retarded, we gotta make mushm where it is only safe stuff so you don't fuck shit." Then that got me thinking, so when I got home I created "MushTard," which is a retarded version of their "mushm," and now this is for all those peeps that are retarded and you know will screw their shit if not monitored, hence me making MushTard.
 
 > [!WARNING]
 > **This will replace your current Mush installation** with the Nonagon-modified-Jmoney-modified version.  
 > Back up any important data before continuing.
+> Also, if you have a friend who knows how to do this that is smart HAND THE COMPUTER TO THEM!
 
 ---
 
 ## Installation
 
-Run the following command as **root** to install the modified Mush
+Run the following command as **root** to install the de-modified version of mush
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/Jmoney46/MushmTard/refs/heads/main/installer.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/Jmoney46/MushTard/refs/heads/main/installer.sh)
 ```
 ---
 
 ## Fixes
 
-### Fix for "Can't Install MushMTard" (Read-Only File System)
+### Fix for "Can't Install MushTard" (Read-Only File System)
 
 If you're seeing a "Read-Only" (RO) file system error when trying to install **MushmTard** or any other package on Chrome OS, follow the steps below to fix it.
 
